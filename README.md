@@ -8,3 +8,6 @@ Users can import audio files from their local device and are then able to record
   * Dart Material Package - to create a visually appealing but clean UI 
   * Dart Audio Package - for zero-latency audio state manipulation such as seeking and playback
 * I learned how to use Firebase SDKs for Cloud Storage 
+
+# Demo-Image
+![]()
