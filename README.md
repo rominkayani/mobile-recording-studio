@@ -1,8 +1,8 @@
-# audiorecording
+# Mobile Recording Studio
 
 A new Flutter application.
 
-## Getting Started
+# What I Learned
 
 This project is a starting point for a Flutter application.
 
