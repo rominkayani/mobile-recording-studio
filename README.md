@@ -1,16 +1,10 @@
 # Mobile Recording Studio
-
-A new Flutter application.
+An android application with music playback and recording functionality
+Users can import audio files from their local device and are then able to record vocals on top of the imported audio
 
 # What I Learned
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* I learned the basics of creating and launching a flutter application
+* I learned how to use the various Dart Packages including:
+** Dart Material Package - to create a visually appealing but clean UI 
+** Dart Audio Package - for zero-latency audio state manipulation such as seeking and playback
+* I learned how to use Firebase SDKs for Cloud Storage 
