@@ -10,7 +10,8 @@ Users can import audio files from their local device and are then able to record
 * I learned how to use Firebase SDKs for Cloud Storage 
 
 # Demo-Images
-![Img 1](https://user-images.githubusercontent.com/67887880/128093748-a79e49ba-cc3e-4379-94e4-66af58805d9c.png){:height="50%" width="50%"}
-![Img 2](https://user-images.githubusercontent.com/67887880/128093751-3a267983-990c-41f7-a6bc-3558435f5efd.png)
+<img src="https://user-images.githubusercontent.com/67887880/128093748-a79e49ba-cc3e-4379-94e4-66af58805d9c.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/67887880/128093751-3a267983-990c-41f7-a6bc-3558435f5efd.png" width="300" height="500">
+
 
 
